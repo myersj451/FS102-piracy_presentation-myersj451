@@ -18,11 +18,7 @@ wide variety of operating systems and browsers.
 
 I have found that some versions of Chrome and Chromium do not quickly load the full-screen images that I use as
 backgrounds. If you notice this problem as well, then I would encourage you to "serve" the presentation with a local Web
-server, such as the Ruby-based one available at [jlong/serve](https://github.com/jlong/serve). If you adopt this
-approach, then you should type the following command:
+server, such as the Ruby-based one available at [jlong/serve](https://github.com/jlong/serve).
 
-```shell
-serve 4100
-```
 
-Now, you can navigate to the Web site `http://localhost:4100/fake_news.html` and view the presentation. Please raise any issue found in the presentation and/or code. 
+Now, you can navigate to the Web site `http://localhost:4100/` and view the presentation. Please raise any issue found in the presentation and/or code. 
