@@ -25,4 +25,4 @@ approach, then you should type the following command:
 serve 4100
 ```
 
-Now, you can navigate to the Web site `http://localhost:4100/seke2015_panel.html` and view the presentation. Please raise any issue found in the presentation and/or code. 
+Now, you can navigate to the Web site `http://localhost:4100/fake_news.html` and view the presentation. Please raise any issue found in the presentation and/or code. 
