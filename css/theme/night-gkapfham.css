@@ -34,7 +34,7 @@ body {
 .reveal h6 {
     margin: 0 0 20px 0;
     color: #707880;
-    font-family: Ubuntu, "sans-serif";
+    font-family: monospace;
     line-height: 1.1em;
     font-weight:normal;
     letter-spacing: -0.03em;
