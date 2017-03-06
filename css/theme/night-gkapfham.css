@@ -19,7 +19,7 @@ body {
     color: #eeeeee; }
 
 ::selection {
-    color: white;
+    color: #fff;
     background: #e7ad52;
     text-shadow: none; }
 
