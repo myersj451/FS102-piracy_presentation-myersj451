@@ -91,12 +91,12 @@ body {
  *********************************************/
 .reveal .controls div.navigate-left,
 .reveal .controls div.navigate-left.enabled {
-    border-right-color: #df8700; 
+    border-right-color: #C94040; 
 }
 
 .reveal .controls div.navigate-right,
 .reveal .controls div.navigate-right.enabled {
-    border-left-color: #df8700; 
+    border-left-color: #C94040; 
     /* border-left-color: #e7ad52;  */
 }
 
