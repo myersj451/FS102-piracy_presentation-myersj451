@@ -12,7 +12,7 @@ body {
     background-color: #1d1f21; }
 
 .reveal {
-    font-family: 'Merriweather Sans', sans;
+    font-family: Ubuntu, "sans-serif";
     font-size: 35px;
     font-weight: normal;
     letter-spacing: -0.02em;
