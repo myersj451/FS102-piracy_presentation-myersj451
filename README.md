@@ -5,4 +5,3 @@ This repository contains the HTML source code and additional resources for a pre
 
 
 Now, you can navigate [The Crackdown on False News](http://cdn.rawgit.com/myersj451/FS102-piracy_presentation-myersj451/master/piracy.html#/) locally.
->>>>>>> 158e134aeab6a8f6c17dc5caf278171b37b17eda
